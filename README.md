@@ -1,6 +1,6 @@
 # sniping guides
 
-guides on minecraft name sniping to make it more approachable for new users
+Guides on minecraft name sniping to make it more approachable for new users
 
 ## Plans
 
