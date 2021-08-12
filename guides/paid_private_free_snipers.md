@@ -6,4 +6,4 @@ Before I begin, I should say that I generally do not like paid snipers, and beli
 
 ## Why you would buy a paid sniper
 
-The *only* reason I can think of for purchasing a paid sniper, would be buying one specifically becaues it comes with a web ui, making it easier to snipe with. Other than that, there's no reason to not use a free one.
+The *only* reason I can think of for purchasing a paid sniper, would be buying one specifically becaues it comes with a web UI, making it easier to snipe with. Other than that, there's no reason to not use a free one.
