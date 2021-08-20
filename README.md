@@ -4,8 +4,11 @@ Guides on minecraft name sniping to make it more approachable for new users
 
 ## Plans
 
+I kinda abandoned this project temporarily, I'll hopefully get to working on it soon.
+
 - Integration with discord bot
 - Hosted as docs page through github pages
+
 
 ## Contributing
 
